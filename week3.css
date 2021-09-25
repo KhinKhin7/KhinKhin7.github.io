@@ -23,7 +23,6 @@
 
 }
 
-
 .title{
 	color: #579C7D;
 	text-align: center;
@@ -38,6 +37,7 @@
 	font-family: "Montserrat Subrayada", sans-serif;
 
 }
+
 .line1{ /*right antenna on tv1*/
 	background: black;
 	position: relative;
