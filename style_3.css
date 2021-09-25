@@ -23,14 +23,12 @@
 
 }
 
-
 .title{
-	color: #579C7D;
+	color: #3A6B4C;
 	text-align: center;
 	text-shadow: 5px 3px 10px #D9F0D1;
-
-	font-size: 70px;
-	padding-top: 30px;
+	font-size: 90px;
+	padding-top: 20px;
 	padding-bottom: 30px;
 	padding-left: 30px;
 	padding-right: 30px;
@@ -38,6 +36,7 @@
 	font-family: "Montserrat Subrayada", sans-serif;
 
 }
+
 .line1{ /*right antenna on tv1*/
 	background: black;
 	position: relative;
@@ -47,7 +46,7 @@
 	height: 250px;
 	border-radius: 10px;
 	transform: rotate(55deg);
-}
+} 
 
 .line_2{ /*left antenna on tv1*/
     background: black;
@@ -59,7 +58,6 @@
 	border-radius: 10px;
 	transform: rotate(140deg);
 }
-
 
 .tv1{
 	color: white;
