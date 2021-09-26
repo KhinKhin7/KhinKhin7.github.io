@@ -1,32 +1,29 @@
 .background{
 	background-image: linear-gradient(#D1A5AB,#D1F0D7);
-	padding-bottom: 50%;
-	padding-top: 5%;
-
 }
 
 .title{
 	color: #579C7D;
 	text-align: center;
 	text-shadow: 5px 3px 10px #D9F0D1;
-	font-size: 120px;
+	font-size: 140px;
 	padding-top: 30px;
 	padding-bottom: 30px;
 	padding-left: 30px;
 	padding-right: 30px;
 	margin: auto;
 	font-family: "Montserrat Subrayada", sans-serif;
-
 }
 
 .name{
 	color: #579C7D;
 	text-align: center;
 	text-shadow: 3px 3px 4px #D9F0D1;
-	font-size: 60px;
+	font-size: 80px;
 	font-family: "Montserrat Subrayada", sans-serif;
 }
 
+/*First Ep*/
 .line1{ /*right antenna on tv1*/
 	background: black;
 	position: relative;
@@ -38,7 +35,7 @@
 	transform: rotate(55deg);
 }
 
-.line_2{ /*left antenna on tv1*/
+.line_1{ /*left antenna on tv1*/
     background: black;
 	position: relative;
 	top: -900px;
@@ -50,7 +47,6 @@
 }
 
 .tv1{
-	color: white;
 	border-radius: 30px;
 	background: black;
 	padding: 100px;
@@ -58,15 +54,185 @@
 	height: 350px;
 	position: relative;
 	top: 200px; left: 50px; 
-
 }
+
+.text{
+	position: relative;
+	top: 500px;
+	left: 1400px;
+	color: black ;
+	text-shadow: 2px 2px 4px #85D5D6;
+	font-size: 60px;
+	font-family: Raleway, sans-serif;
+}
+
+.quotes{
+	position: relative;
+	top: 600px;
+	left: 1100px;
+	color: black ;
+	text-shadow: 2px 2px 4px #85D5D6;
+	font-size: 60px;
+	font-family: Raleway, sans-serif;
+}
+
+/*Second Ep*/
 
 .tv_2{
 	border-radius: 30px;
-	background: white;
+	background: black;
 	padding: 100px;
-	width: 350px;
-	height: 200px;
+	width: 550px;
+	height: 350px;
 	position: relative;
-	top: 300px; left: 1020px; 
+	top: -800px; left: 1350px; 
+}
+
+.line2{ /*right antenna on tv2*/
+	background: black;
+	position: relative;
+	top: -1500px;
+	left: 1700px;
+	width: 12px;
+	height: 250px;
+	border-radius: 10px;
+	transform: rotate(45deg);
+}
+
+.line_2{ /*left antenna on tv2*/
+    background: black;
+	position: relative;
+	top: -1900px;
+	left: 1600px;
+	width: 12px;
+	height: 450px;
+	border-radius: 10px;
+	transform: rotate(170deg);
+}
+
+.text2{
+	position: relative;
+	top: -500px;
+	left: 400px;
+	color: black;
+	text-shadow: 2px 2px 4px #85D5D6;
+	font-size: 60px;
+	font-family: Raleway, sans-serif;
+}
+
+.quotes2{
+	position: relative;
+	top: -400px;
+	left: 200px;
+	color: black ;
+	text-shadow: 2px 2px 4px #85D5D6;
+	font-size: 60px;
+	font-family: Raleway, sans-serif;
+}
+
+/*Third Ep*/
+
+.line3{ /*right antenna on tv3*/
+	background: black;
+	position: relative;
+	top: -2700px;
+	left: 420px;
+	width: 12px;
+	height: 450px;
+	border-radius: 10px;
+	transform: rotate(35deg);
+}
+
+.line_3{ /*left antenna on tv3*/
+    background: black;
+	position: relative;
+	top: -3000px;
+	left: 370px;
+	width: 12px;
+	height: 250px;
+	border-radius: 10px;
+	transform: rotate(140deg);
+}
+
+.tv_3{
+	border-radius: 30px;
+	background: black;
+	padding: 100px;
+	width: 550px;
+	height: 350px;
+	position: relative;
+	top: -1900px; left: 50px; 
+}
+
+.text3{
+	position: relative;
+	top: -1600px;
+	left: 1400px;
+	color: black ;
+	text-shadow: 2px 2px 4px #85D5D6;
+	font-size: 60px;
+	font-family: Raleway, sans-serif;
+}
+
+.quotes3{
+	position: relative;
+	top: -1500px;
+	left: 1200px;
+	color: black ;
+	text-shadow: 2px 2px 4px #85D5D6;
+	font-size: 60px;
+	font-family: Raleway, sans-serif;
+}
+
+/*Fourth Ep*/
+.tv_4{
+	border-radius: 30px;
+	background: black;
+	padding: 100px;
+	width: 550px;
+	height: 350px;
+	position: relative;
+	top: -2900px; left: 1350px; 
+}
+
+.line4{ /*right antenna on tv2*/
+	background: black;
+	position: relative;
+	top: -3750px;
+	left: 1900px;
+	width: 12px;
+	height: 450px;
+	border-radius: 10px;
+	transform: rotate(25deg);
+}
+
+.line_4{ /*left antenna on tv2*/
+    background: black;
+	position: relative;
+	top: -4100px;
+	left: 1800px;
+	width: 12px;
+	height: 250px;
+	border-radius: 10px;
+	transform: rotate(150deg);
+}
+
+.text4{
+	position: relative;
+	top: -2600px;
+	left: 400px;
+	color: black;
+	text-shadow: 2px 2px 4px #85D5D6;
+	font-size: 60px;
+	font-family: Raleway, sans-serif;
+}
+
+.quotes4{
+	position: relative;
+	top: -2500px;
+	left: 200px;
+	color: black ;
+	text-shadow: 2px 2px 4px #85D5D6;
+	font-size: 60px;
+	font-family: Raleway, sans-serif;
 }
