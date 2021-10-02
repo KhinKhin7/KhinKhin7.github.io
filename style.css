@@ -1,0 +1,9 @@
+body {
+	background-image: url('https://i.pinimg.com/originals/3f/c2/cf/3fc2cfbd4723f84e9f214a54f9e462a9.gif');
+
+}
+
+.background-image{
+	max-height: 100%;
+	max-width: 100%;
+}
