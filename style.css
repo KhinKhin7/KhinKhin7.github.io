@@ -1,17 +1,13 @@
 #name{
-	background: black;
 	color: darkred;
 	font-size: 70px;
 	text-align: center;
-
+	margin: auto;
+	width: 50%;
+	border: 4px dashed slateblue;
 }
-
 
 .background{
 	background-image: linear-gradient(#F4DEE2,#C5D9F5); 
 
-}
-
-a: hover{
-	background-color: pink;
 }
