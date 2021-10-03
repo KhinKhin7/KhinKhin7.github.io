@@ -11,10 +11,10 @@
 	text-align: center;
 }
 
-.topface{
-  width: 200px;
-  height: 200px;
-  background: red;
-  transform: perspective(10px) rotateX(1deg);
-  margin: 50px;
+#face{
+	border-radius: 30px;
+	height: 200px;
+	width: 150px;
+	background-color: #D1955C;
+
 }
