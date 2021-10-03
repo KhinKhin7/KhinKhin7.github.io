@@ -13,7 +13,7 @@
 	display: inline-block;
 }
 
-.A1{
+.A1 .A2 .A3 .A4{
 	font-size: 40px;
 	font-family: 'Lato', sans-serif;
 	color: darkblue;
@@ -21,18 +21,3 @@
 	text-align: center;
 }
 
-.A2{
-	font-size: 40px;
-	font-family: 'Lato', sans-serif;
-	color: darkblue;
-	border: 3px dashed lightgray;
-	text-align: center;
-}
-
-.A4{
-	font-size: 40px;
-	font-family: 'Lato', sans-serif;
-	color: darkblue;
-	border: 3px dashed lightgray;
-	text-align: center;
-}
