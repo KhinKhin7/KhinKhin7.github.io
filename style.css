@@ -22,6 +22,7 @@
 	font-size: 40px;
 	font-family: 'Lato', sans-serif;
 	color: darkblue;
+	width: 25%;
 	border: 3px dashed lightgray;
 	text-align: center;
 }
@@ -33,6 +34,7 @@
 	color: darkblue;
 	border: 3px dashed lightgray;
 	text-align: center;
+	width: 50%;
 }
 
 
@@ -42,6 +44,7 @@
 	color: darkblue;
 	border: 3px dashed lightgray;
 	text-align: center;
+	width: 75%;
 }
 
 
@@ -51,5 +54,6 @@
 	color: darkblue;
 	border: 3px dashed lightgray;
 	text-align: center;
+	width: 50%;
 }
 
