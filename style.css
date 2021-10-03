@@ -1,3 +1,9 @@
+#name{
+	color: darkred;
+	text-align: center;
+}
+
+
 .background{
 	background-image: linear-gradient(#F4DEE2,#C5D9F5); 
 	height: 100%;
