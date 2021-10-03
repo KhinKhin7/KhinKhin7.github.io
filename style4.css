@@ -2,11 +2,3 @@
 	background: red;
 }
 
-.trapezoid{
-	width: 200px;
-	height: 200px;
-	background: black;
-	transform: perspective(10px) rotateX(1deg);
-	margin: 50px;
-
-}
