@@ -4,7 +4,7 @@
 
 #hair{
 	border-radius: 10px;
-	height: 70px;
+	height: 80px;
 	width: 230px;
 	background-color: #291D12;
 	position: fixed;
@@ -14,7 +14,7 @@
 
 #face{
 	border-radius: 30px;
-	height: 300px;
+	height: 250px;
 	width: 230px;
 	background-color: #D1955C;
 	position: fixed;
