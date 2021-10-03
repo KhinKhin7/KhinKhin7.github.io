@@ -5,7 +5,7 @@
 	margin-top: 10px;
 	width: 50%;
 	border: 4px solid lightcoral;
-	position: relative; top: -200px;
+	position: relative; top: -300px;
 
 }
 
@@ -19,7 +19,7 @@
 .A1 {
 	font-size: 40px;
 	font-family: 'Lato', sans-serif;
-	color: red;
+	color: whitesmoke;
 	width: 50%;
 	border: 3px dotted peachpuff;
 	text-align: center;
@@ -30,7 +30,7 @@
 .A2 {
 	font-size: 40px;
 	font-family: 'Lato', sans-serif;
-	color: red;
+	color: whitesmoke;
 	border: 3px dotted peachpuff;
 	text-align: center;
 	width: 50%;
@@ -41,7 +41,7 @@
 .A3 {
 	font-size: 40px;
 	font-family: 'Lato', sans-serif;
-	color: red;
+	color: whitesmoke;
 	border: 3px dotted peachpuff;
 	text-align: center;
 	width: 50%;
@@ -52,7 +52,7 @@
 .A4 {
 	font-size: 40px;
 	font-family: 'Lato', sans-serif;
-	color: red;
+	color: whitesmoke;
 	border: 3px dotted peachpuff;
 	text-align: center;
 	width: 50%;
