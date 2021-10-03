@@ -19,10 +19,3 @@
   margin: 50px;
 }
 
-.bottomface{
-  width: 200px;
-  height: 200px;
-  background: red;
-  transform: perspective(10px) rotateX(180deg);
-  margin: 50px;
-}
