@@ -5,15 +5,47 @@
 	margin: auto;
 	width: 50%;
 	border: 4px solid slateblue;
+
 }
 
 .background{
 	background-image: linear-gradient(#F4DEE2,#C5D9F5); 
 	margin: 0;
+}
+
+.inline{
 	display: inline-block;
 }
 
-.A1 .A2 .A3 .A4{
+
+.A1 {
+	font-size: 40px;
+	font-family: 'Lato', sans-serif;
+	color: darkblue;
+	border: 3px dashed lightgray;
+	text-align: center;
+}
+
+
+.A2 {
+	font-size: 40px;
+	font-family: 'Lato', sans-serif;
+	color: darkblue;
+	border: 3px dashed lightgray;
+	text-align: center;
+}
+
+
+.A3 {
+	font-size: 40px;
+	font-family: 'Lato', sans-serif;
+	color: darkblue;
+	border: 3px dashed lightgray;
+	text-align: center;
+}
+
+
+.A4 {
 	font-size: 40px;
 	font-family: 'Lato', sans-serif;
 	color: darkblue;
