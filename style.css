@@ -1,7 +1,10 @@
 #name{
 	background: blue;
 	color: darkred;
-	text-align: center;
+	font-size: 50px;
+	position: relative; top: 10px; left: 400px;
+
+	
 }
 
 
