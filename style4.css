@@ -68,19 +68,51 @@
 }
 
 #l_brow{
-
+	font-size: 50px;
+	border-radius: 50px;
+	height: 5px;
+	width: 39px;
+	background-color: #291D12;
+	position: fixed;
+	top: 308px;
+	left: 559px;
+	transform: rotate(7deg);
 }
 
 #leftbrow{
-
+	font-size: 50px;
+	border-radius: 50px;
+	height: 5px;
+	width: 22px;
+	background-color: #291D12;
+	position: fixed;
+	top: 307px;
+	left: 540px;
+	transform: rotate(-10deg);
 }
 
-#r_brow{
-
+#r_brow{    
+    font-size: 50px;
+	border-radius: 50px;
+	height: 5px;
+	width: 39px;
+	background-color: #291D12;
+	position: fixed;
+	top: 308px;
+	left: 647px;
+	transform: rotate(-7deg);
 }
 
 #rightbrow{
-
+    font-size: 50px;
+	border-radius: 50px;
+	height: 5px;
+	width: 22px;
+	background-color: #291D12;
+	position: fixed;
+	top: 307px;
+	left: 683px;
+	transform: rotate(10deg);
 }
 
 #mouth{
