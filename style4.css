@@ -82,3 +82,18 @@
 #rightbrow{
 
 }
+
+#mouth{
+
+}
+
+#nose{
+	font-size: 50px;
+	border-radius: 50px;
+	height: 25px;
+	width: 20px;
+	background-color: white;
+	position: fixed;
+	top: 360px;
+	left: 600px;
+}
