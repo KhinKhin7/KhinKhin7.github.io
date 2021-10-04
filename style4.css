@@ -4,8 +4,8 @@
 
 #hair{
 	border-radius: 10px;
-	height: 90px;
-	width: 230px;
+	height: 100px;
+	width: 240px;
 	background-color: #291D12;
 	position: fixed;
 	top: 220px;
@@ -15,16 +15,23 @@
 #face{
 	border-radius: 30px;
 	height: 250px;
-	width: 230px;
+	width: 240px;
 	background-color: #D1955C;
 	position: fixed;
 	top: 250px;
 	left: 500px;
 
-
 }
 
 #eyes{
 	font-size: 50px;
-	text-align: center;
+	border-radius: 50px;
+	height: 100px;
+	width: 150px;
+	background-color: whitesmoke;
+	position: fixed;
+	top: 260;
+	left: 500;
+
+
 }
