@@ -116,25 +116,23 @@
 }
 
 #mouth{
-	font-size: 50px;
-	border-radius: 50px;
-	height: 10px;
-	width: 20px;
-	background-color: black;
+    font-size: 50px;
+	border-radius: 15px;
+	height:20px;
+	width: 40px;
+	background-color: #291d12;
 	position: fixed;
-	top: 350px;
-	left: 560px;
-
-
+	top: 430px;
+	left:602px;
 }
 
 #nose{
 	font-size: 50px;
 	border-radius: 50px;
-	height: 25px;
-	width: 20px;
-	background-color: white;
+	height: 20px;
+	width: 15px;
+	background-color: #291d12;
 	position: fixed;
-	top: 360px;
-	left: 600px;
+	top: 380px;
+	left: 615px;
 }
