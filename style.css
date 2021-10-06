@@ -63,3 +63,13 @@
 	position: relative; left: 50px; top: 100px;
 
 }
+
+.A5 {
+	font-size: 40px;
+	font-family: 'Lato', sans-serif;
+	border: 3px dotted peachpuff;
+	text-align: center;
+	width: 38%;
+	padding: 20px;
+	position: relative; left: 250px; top: 125px;
+}
