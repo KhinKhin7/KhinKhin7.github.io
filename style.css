@@ -24,7 +24,7 @@
 	width: 38%;
 	border: 3px dotted peachpuff;
 	text-align: center;
-	padding: 20px;
+	padding: 2px;
 	margin: 50px;
 	position: relative; left: 200px; top: 10px;
 }
@@ -36,7 +36,7 @@
 	border: 3px dotted peachpuff;
 	text-align: center;
 	width: 38%;
-	padding: 20px;
+	padding: 2px;
 	position: relative; left: 50px; top: 20px;
 }
 
@@ -47,7 +47,7 @@
 	border: 3px dotted peachpuff;
 	text-align: center;
 	width: 38%;
-	padding: 20px;
+	padding: 2px;
 	position: relative; left: 250px; top: 30px;
 
 }
@@ -59,7 +59,7 @@
 	border: 3px dotted peachpuff;
 	text-align: center;
 	width: 38%;
-	padding: 20px;
+	padding: 2px;
 	position: relative; left: 50px; top: 40px;
 
 }
@@ -70,6 +70,16 @@
 	border: 3px dotted peachpuff;
 	text-align: center;
 	width: 38%;
-	padding: 20px;
+	padding: 2px;
 	position: relative; left: 250px; top: 50px;
+}
+
+.Midterm{
+	font-size: 40px;
+	font-family: 'Lato', sans-serif;
+	border: 3px dotted peachpuff;
+	text-align: center;
+	width: 38%;
+	padding: 2px;
+	position: relative; left: 50px; top: 50px;
 }
